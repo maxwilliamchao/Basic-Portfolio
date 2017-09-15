@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 Raw
  README-Template.md
 hw1 box model
@@ -6,38 +13,26 @@ This assignment introduced me to programming fundamentals in HTML5 (Hypertext Ma
 
 
 Getting Started
-
 Deploy this on a live system by running the .html documents in your internet browser.
 
 Prerequisites
 You must have an internet browser installed and updated on your computer.  An internet connection would be nice too.  Right click the index.html and open the document with an internet browser.  Alternately, open the command line interface / command prompt /terminal and navigate to the directory containing the .html files and open them.
 
-Give examples
-Installing
-A step by step series of examples that tell you have to get a development env running
+Repositories
 
-Say what the step will be
+https://maxwilliamchao.github.io/Basic-Portfolio/
 
-Give the example
-And repeat
+https://maxwilliamchao.github.io/
 
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+Author
 
-Running the tests
+Maxwilliam Chao
 
-Explain how to run the automated tests for this system
+Berkley Coding Bootcamp
 
-Break down into end to end tests
-Explain what these tests test and why
+File List
 
-Give an example
-And coding style tests
-Explain what these tests test and why
-
-Give an example
-Deployment
-
-Add additional notes about how to deploy this on a live system
-
-
+index.html
+portfolio.html
+contacts.html
+test.html (clipboard)
